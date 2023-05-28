@@ -1,155 +1,25 @@
 {
-  "resources": [
-      {
-          "asset_id": "0a6e53b2273b0992d9681c6d355ad64b",
-          "public_id": "IMG_0135_hujwjd",
-          "format": "jpg",
-          "version": 1685245665,
-          "resource_type": "image",
-          "type": "upload",
-          "created_at": "2023-05-28T03:47:45Z",
-          "bytes": 676790,
-          "width": 2720,
-          "height": 4080,
-          "folder": "",
-          "url": "http://res.cloudinary.com/dinhan9nl/image/upload/v1685245665/IMG_0135_hujwjd.jpg",
-          "secure_url": "https://res.cloudinary.com/dinhan9nl/image/upload/v1685245665/IMG_0135_hujwjd.jpg"
-      },
-      {
-          "asset_id": "40138bd9214240e89857c4d62ab42aac",
-          "public_id": "IMG_0136_dk5aov",
-          "format": "jpg",
-          "version": 1685245663,
-          "resource_type": "image",
-          "type": "upload",
-          "created_at": "2023-05-28T03:47:43Z",
-          "bytes": 780940,
-          "width": 2720,
-          "height": 4080,
-          "folder": "",
-          "url": "http://res.cloudinary.com/dinhan9nl/image/upload/v1685245663/IMG_0136_dk5aov.jpg",
-          "secure_url": "https://res.cloudinary.com/dinhan9nl/image/upload/v1685245663/IMG_0136_dk5aov.jpg"
-      },
-      {
-          "asset_id": "09a26233e5429d3e110bb154a51fa7b2",
-          "public_id": "IMG_0121_zdkg6h",
-          "format": "jpg",
-          "version": 1685245663,
-          "resource_type": "image",
-          "type": "upload",
-          "created_at": "2023-05-28T03:47:43Z",
-          "bytes": 651629,
-          "width": 3943,
-          "height": 2621,
-          "folder": "",
-          "url": "http://res.cloudinary.com/dinhan9nl/image/upload/v1685245663/IMG_0121_zdkg6h.jpg",
-          "secure_url": "https://res.cloudinary.com/dinhan9nl/image/upload/v1685245663/IMG_0121_zdkg6h.jpg"
-      },
-      {
-          "asset_id": "e84db58d131b786bd1d4b8174584b05f",
-          "public_id": "IMG_0122_oadqr0",
-          "format": "jpg",
-          "version": 1685245663,
-          "resource_type": "image",
-          "type": "upload",
-          "created_at": "2023-05-28T03:47:43Z",
-          "bytes": 720450,
-          "width": 4080,
-          "height": 2720,
-          "folder": "",
-          "url": "http://res.cloudinary.com/dinhan9nl/image/upload/v1685245663/IMG_0122_oadqr0.jpg",
-          "secure_url": "https://res.cloudinary.com/dinhan9nl/image/upload/v1685245663/IMG_0122_oadqr0.jpg"
-      },
-      {
-          "asset_id": "4a24c91b743ce2e1c0f40fa91f381df3",
-          "public_id": "IMG_0137_ivhnpq",
-          "format": "jpg",
-          "version": 1685245663,
-          "resource_type": "image",
-          "type": "upload",
-          "created_at": "2023-05-28T03:47:43Z",
-          "bytes": 707449,
-          "width": 2720,
-          "height": 4080,
-          "folder": "",
-          "url": "http://res.cloudinary.com/dinhan9nl/image/upload/v1685245663/IMG_0137_ivhnpq.jpg",
-          "secure_url": "https://res.cloudinary.com/dinhan9nl/image/upload/v1685245663/IMG_0137_ivhnpq.jpg"
-      },
-      {
-          "asset_id": "a77e05e6cedcc6e7f270527029113917",
-          "public_id": "IMG_0118_ucoumf",
-          "format": "jpg",
-          "version": 1685245662,
-          "resource_type": "image",
-          "type": "upload",
-          "created_at": "2023-05-28T03:47:42Z",
-          "bytes": 469518,
-          "width": 3256,
-          "height": 1957,
-          "folder": "",
-          "url": "http://res.cloudinary.com/dinhan9nl/image/upload/v1685245662/IMG_0118_ucoumf.jpg",
-          "secure_url": "https://res.cloudinary.com/dinhan9nl/image/upload/v1685245662/IMG_0118_ucoumf.jpg"
-      },
-      {
-          "asset_id": "7bba71ed296226bff6069676cf0e4c5e",
-          "public_id": "IMG_0120_byvhzl",
-          "format": "jpg",
-          "version": 1685245662,
-          "resource_type": "image",
-          "type": "upload",
-          "created_at": "2023-05-28T03:47:42Z",
-          "bytes": 587707,
-          "width": 3607,
-          "height": 2377,
-          "folder": "",
-          "url": "http://res.cloudinary.com/dinhan9nl/image/upload/v1685245662/IMG_0120_byvhzl.jpg",
-          "secure_url": "https://res.cloudinary.com/dinhan9nl/image/upload/v1685245662/IMG_0120_byvhzl.jpg"
-      },
-      {
-          "asset_id": "7140e30737937a0e9a68b3baa197aa0a",
-          "public_id": "IMG_0134_ndhxoj",
-          "format": "jpg",
-          "version": 1685245662,
-          "resource_type": "image",
-          "type": "upload",
-          "created_at": "2023-05-28T03:47:42Z",
-          "bytes": 762135,
-          "width": 2659,
-          "height": 3988,
-          "folder": "",
-          "url": "http://res.cloudinary.com/dinhan9nl/image/upload/v1685245662/IMG_0134_ndhxoj.jpg",
-          "secure_url": "https://res.cloudinary.com/dinhan9nl/image/upload/v1685245662/IMG_0134_ndhxoj.jpg"
-      },
-      {
-          "asset_id": "a9ddab1a04a13124685eb88f35afe1ff",
-          "public_id": "IMG_0140_uqlpma",
-          "format": "jpg",
-          "version": 1685240383,
-          "resource_type": "image",
-          "type": "upload",
-          "created_at": "2023-05-28T02:19:43Z",
-          "bytes": 726222,
-          "width": 2720,
-          "height": 4080,
-          "folder": "",
-          "url": "http://res.cloudinary.com/dinhan9nl/image/upload/v1685240383/IMG_0140_uqlpma.jpg",
-          "secure_url": "https://res.cloudinary.com/dinhan9nl/image/upload/v1685240383/IMG_0140_uqlpma.jpg"
-      },
-      {
-          "asset_id": "45ebb2111df2fb398e7081ffc1161446",
-          "public_id": "cld-sample-4",
-          "format": "jpg",
-          "version": 1685230334,
-          "resource_type": "image",
-          "type": "upload",
-          "created_at": "2023-05-27T23:32:14Z",
-          "bytes": 818600,
-          "width": 1870,
-          "height": 1250,
-          "folder": "",
-          "url": "http://res.cloudinary.com/dinhan9nl/image/upload/v1685230334/cld-sample-4.jpg",
-          "secure_url": "https://res.cloudinary.com/dinhan9nl/image/upload/v1685230334/cld-sample-4.jpg"
-      }
+  "short_name": "React App",
+  "name": "Create React App Sample",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
   ],
-  "next_cursor": "3a208a4bdc3a209272c93f23da3dc4e0aa7729bb7e08f6872ebc854c01630453"
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
 }
