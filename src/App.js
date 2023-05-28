@@ -1,25 +1,16 @@
-import logo from './logo.svg';
-import './App.css';
-
-function App() {
+import React, { useState } from 'react'
+import images from "./api_mock.json"
+import "./App.css";
+const App = () => {
+  const [imageList, setImageList] = useState(images.resources);
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="image-grid">
+      {imageList.map((image) => (
+        <img src={image.url} alt={image.public_id}></img>
+      ))}
     </div>
   );
-}
+  
+};
 
-export default App;
+export default App
