@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.7d9710f3.css",
-    "main.js": "/static/js/main.80e0a928.js",
-    "index.html": "/index.html",
-    "main.7d9710f3.css.map": "/static/css/main.7d9710f3.css.map",
-    "main.80e0a928.js.map": "/static/js/main.80e0a928.js.map"
+    "main.css": "/PicturesTakenHiro-Hanzo/static/css/main.7d9710f3.css",
+    "main.js": "/PicturesTakenHiro-Hanzo/static/js/main.80e0a928.js",
+    "index.html": "/PicturesTakenHiro-Hanzo/index.html",
+    "main.7d9710f3.css.map": "/PicturesTakenHiro-Hanzo/static/css/main.7d9710f3.css.map",
+    "main.80e0a928.js.map": "/PicturesTakenHiro-Hanzo/static/js/main.80e0a928.js.map"
   },
   "entrypoints": [
     "static/css/main.7d9710f3.css",
