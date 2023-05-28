@@ -1,10 +1,11 @@
-import React, { useState} from 'react'
-// import { getImages } from './api';
-import images from "./api_mock.json"
+import React, { useEffect, useState} from 'react'
+import { getImages } from './api';
+// import images from "./api_mock.json"
 import './App.css'
 
 const App = () => {
-  const [imageList, setImageList] = useState(images.resources);
+  const [imageList, setImageList] = useState([]);
+  // const [imageList2, setImageList2] = useState([]);
   // const [imageList2, setImageList2] = useState([]);
   // const handleGetImages = async() => {
   //   const images = await getImages()
@@ -12,7 +13,13 @@ const App = () => {
   // }
   // useEffect(() => {
   //  handleGetImages()
-  
+  useEffect(() => {
+    const fetchData = async() => {
+      const responseJson = await getImages();
+      setImageList(responseJson.resources)
+    }
+    return fetchData()
+  }, [])
     
   // }, [])
   
