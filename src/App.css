@@ -47,7 +47,7 @@ img {
   display: grid;
   gap: 0.5rem;
   grid-template-columns: repeat(auto-fill, minmax(450px, 1fr));
-  grid-template-rows: masonry;
+  
 }
 
 /* .img-grid {
