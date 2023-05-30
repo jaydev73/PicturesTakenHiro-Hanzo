@@ -3,7 +3,7 @@ import React from 'react'
 const Navbar = () => {
   return (
     <>
-        <div class="container">
+        <div className="container">
   {/* <h1>Hiro and Hanzo</h1> */}
   <svg 
   
