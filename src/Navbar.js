@@ -3,12 +3,15 @@ import React from 'react'
 const Navbar = () => {
   return (
     <>
-        <div class="container">
-  
+        <div className="container">
+  {/* <h1>Hiro and Hanzo</h1> */}
   <svg 
   
-  width="615px" height="64px">
- <text kerning="auto" font-family="Myriad Pro" fill="rgb(0, 0, 0)" font-size="72px" x="0px" y="55.359px"><tspan font-size="60px" font-family="Alphabet Number Lore Font V3" fill="#FCF9F9">HIRO&#32;&#32;</tspan><tspan font-size="72px" fill="#FCF9F9">&#38;</tspan><tspan font-size="60px" font-family="Alphabet Number Lore Font V3" fill="#FCF9F9">&#32;&#32;HANZO</tspan></text>
+  width="350px" height="64px">
+ <text kerning="auto" fontFamily="Myriad Pro" fill="rgb(0, 0, 0)" fontSize="48px" x="0px" y="55.359px">
+ <tspan fontSize="40px" fontFamily="Alphabet Number Lore Font V3" fill="#FCF9F9">HIRO & HANZO</tspan>
+ 
+ </text>
  </svg> 
 </div>
     </>

@@ -31,10 +31,19 @@ body {
 
 .container {
   max-width: 900px;
-  margin: 0 auto;
+  margin: auto;
   padding: 50px 20px;
   display: flex;
   justify-content: center;
+}
+tspan{
+  text-align: center;
+}
+h1 {
+  font-size: 48;
+  color: white;
+  font-style: var(--neutral-4);
+  
 }
 
 img {
