@@ -1,35 +1,39 @@
-:root {
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* :root {
   --white: #fff;
   --black: #000;
 
   /* Primary colors*/
-  --primary-1: #2b8379;
+/* --primary-1: #2b8379;
   --primary-2: #19a596;
   --primary-3: #7fd1c7;
   --primary-4: #7fd1c7;
   --primary-5: #d0f3ef;
 
   /* Neutral colors */
-  --neutral-1: #2c2c2c;
+/* --neutral-1: #2c2c2c;
   --neutral-2: #434343;
   --neutral-3: #94868b;
   --neutral-4: #d9cfd3;
-  --neutral-5: #f2ecee;
+  --neutral-5: #f2ecee; */
 
-  /* Accent-blue colors */
-  --accent-1: #970e3d;
+/* Accent-blue colors */
+/* --accent-1: #970e3d;
   --accent-2: #c43464;
   --accent-3: #de7699;
   --accent-4: #e6c3ce;
-  --accent-5: #fff2f7;
-}
+  --accent-5: #fff2f7; */
+/* } */
 
-body {
+/* body {
   background-color: var(--neutral-2);
   margin: 0;
-}
+} */
 
-.container {
+/* .container {
   max-width: 900px;
   margin: auto;
   padding: 50px 20px;
@@ -39,20 +43,17 @@ body {
 tspan{
   text-align: center;
 }
-h1 {
-  font-size: 48;
+h1 { */
+/* font-size: 48;
   color: white;
   font-style: var(--neutral-4);
   
+} */
+*/ */ img {
+  max-width: 100%;
 }
 
-img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-}
-
-.image-grid {
+/* .image-grid {
   display: grid;
   gap: 0.5rem;
   grid-template-columns: repeat(auto-fill, minmax(450px, 1fr));
@@ -77,7 +78,7 @@ img {
   filter: opacity(.7);
 } */
 
-.load-btn {
+/* /* .load-btn {
   display: flex;
   justify-content: center;
 }
@@ -88,6 +89,4 @@ img {
   border: none;
   padding: 18px;
   margin: 3rem 0 3rem 0;
-}
-
-
+/* }  */
